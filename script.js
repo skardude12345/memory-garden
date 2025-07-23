@@ -1,6 +1,6 @@
 // Memory Garden - Upgraded Anniversary Version
-import * as THREE from 'https://esm.sh/three@0.129.0';
-import { OrbitControls } from 'https://esm.sh/three@0.129.0/examples/jsm/controls/OrbitControls.js';
+import * as THREE from 'https://cdn.skypack.dev/three@0.129.0/build/three.module.js';
+import { OrbitControls } from 'https://cdn.skypack.dev/three@0.129.0/examples/jsm/controls/OrbitControls.js';
 
 // Scene setup
 const scene = new THREE.Scene();
