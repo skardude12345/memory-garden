@@ -101,7 +101,7 @@ const flowerMemories = [
   },
   {
     text: "going to bandra tgt will always be so nice. i love bandstand w u <3",
-    image: "assets/bandra.JPG"
+    image: "assets/bandra.png"
   },
   {
     text: "ME WHEN I SEE YOUUUU. ALWAYSSSSS. you were so stunning that day",
